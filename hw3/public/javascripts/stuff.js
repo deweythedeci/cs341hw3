@@ -1,3 +1,5 @@
+//Ben Chong
+
 $('#jan').click(function() {
     $('#dropbtn').text('Jan');
 });
